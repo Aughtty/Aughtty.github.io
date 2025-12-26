@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 ## 🎓 About Me
-    I am a first-year Master's student at Tianjin University, majoring in Computer Science and Technology.My research primarily focuses on Computer Vision, with interests in image and video restoration, super-resolution,  low-level vision enhancement.I aim to design robust visual understanding and restoration models that perform reliably in complex, real-world scenarios.  
+  I am a first-year Master's student at Tianjin University, majoring in Computer Science and Technology.My research primarily focuses on Computer Vision, with interests in image and video restoration, super-resolution,  low-level vision enhancement.I aim to design robust visual understanding and restoration models that perform reliably in complex, real-world scenarios.  
 - **Computer Vision:** visual restoration, enhancement,  representation  
 - **Image Restoration:** De-noising, deblurring, dehazing, deraining
+
 
 ---
 
